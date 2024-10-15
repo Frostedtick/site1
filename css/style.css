@@ -1,0 +1,112 @@
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-right: 25px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: "Montserrat Alternates", serif;
+}
+
+.logo {
+    width: 20px;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+footer {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.game {
+    width: 300px;
+}
+
+.rating__full {
+    width: 400px;
+    height: 13px;
+    background-color: rgb(194, 132, 132);
+}
+
+.rating__fill {
+    width: 87%;
+    height: 13px;
+    background-color: rgb(132, 194, 135);
+}
+
+.rating__full_2 {
+    width: 400px;
+    height: 13px;
+    background-color: rgb(194, 132, 132);
+}
+
+.rating__fill_2 {
+    width: 98%;
+    height: 13px;
+    background-color: rgb(218, 17, 17);
+}
+
+.gallery__picture {
+    width: 452px;
+
+}
+
+.gallery__picture_2 {
+    width: 452px;
+
+}
+
+.gallery__picture_3 {
+    width: 452px;
+
+}
+
+.gallery__list {
+    display: block;
+}
+main{
+    font-family: "Montserrat Alternates", serif;
+}
+footer{
+    font-family: "Montserrat Alternates", serif;
+}
+.comments__rate{
+    background-color: rgb(87, 218, 35);
+    padding: 10px;
+    border-radius: 10px;
+}
+.comments__mediabody{
+    display: flex;
+    align-items: center;
+    }
+.comments__title_2{
+    margin-left: 20px;
+}
+.comments__item{ 
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 15px;
+}
+.comments__rating{
+    display: flex;
+}
+.positive{
+    background-color: rgb(69, 177, 78);
+    border-radius: 6px;
+    margin-right: 10px;
+} 
+.negative{
+    background-color: rgb(190, 77, 77);
+    border-radius: 6px;
+} 
